@@ -1,0 +1,14 @@
+
+venv/
+.history/
+__pycache__/
+.idea/
+.vscode/
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+.env
+.scannerwork
+.pytest_cache
+.coverage
+htmlcov/
