@@ -1,7 +1,7 @@
 # Measure Django code quality using SonarQube, Pytest, and Coverage 
 
 This guide shows how to check the quality of a Django code base making use of SonarQube, Pytest & Coverage. <br>
-
+Complete Guide: [Click here](https://www.freecodecamp.org/news/how-to-measure-django-code-quality-using-sonarqube-pytest-and-coverage/)
 ## Tools & Services:
 - Django & DRF : for building the APIs
 - Pytest: for writing & running automated tests
